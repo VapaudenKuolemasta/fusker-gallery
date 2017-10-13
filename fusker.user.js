@@ -4,6 +4,7 @@
 // @version         1.0
 // @description     Make a gallery with thumbs
 // @include         https://*.fusker.xxx/*
+// @include         http://*.fusker.xxx/*
 // @grant           GM_addStyle
 // ==/UserScript==
 
